@@ -1,0 +1,5 @@
+opencvの元々学習されてある目の特定をしてみた
+学習されてるモデル　https://github.com/anaustinbeing/haar-cascade-files/blob/master/haarcascade_eye.xml
+opencvはversion3.1以上であればできます。
+自分でコードを持ってこないと読み込めないのでgithubから読み込んでくることを推奨
+簡単に読み込めるので皆さんもやってみてください
