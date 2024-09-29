@@ -1,4 +1,4 @@
-import cv2
+import cv2#3.1以上
 
 image_path = '読み込みたい画像'  
 image = cv2.imread(image_path)
